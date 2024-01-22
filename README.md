@@ -1,1 +1,2 @@
-# Template for a project starter
+# This is a django application learn from udemy
+
