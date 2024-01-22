@@ -44,3 +44,6 @@ python manage.py shell
 # >>> a.id
 # 1
 # >>> a.pk
+
+
+git add * -f # add all files to git including .gitignore files
